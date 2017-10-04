@@ -1,0 +1,8 @@
+STEP 1:  install Pygame library
+-----------
+$ sudo apt-get install python-pygame
+
+
+STEP 2 : run this file by
+$python snake.py
+
